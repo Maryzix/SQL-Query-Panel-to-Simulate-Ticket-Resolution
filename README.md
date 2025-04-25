@@ -1,6 +1,8 @@
 # Support Ticket Simulator
 
-A simple simulation of a support ticket system designed to help prepare for technical support roles like the SAP Support Engineer position.
+Creates a SQLite database with simulated ticket data
+Inserts incidents with error types such as SAML, permission, timeout, etc.
+Allows you to search for tickets by keyword (by error type or description)
 
 ## Features
 
